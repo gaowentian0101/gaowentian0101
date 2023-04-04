@@ -1,3 +1,4 @@
 ### Hi there 👋
-http://antzuhl.cn:4000/get/@gaowentian0101.readme
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gaowentian0101&show_icons=true&theme=dark&count_private=true)
+
 
