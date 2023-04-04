@@ -17,6 +17,8 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
   
+ <!-- Github-Stats-Terminal 终端风格信息 -->
+<img src="https://cdn.jsdelivr.net/gh/gaowentian0101/Github-Stats-Terminal/github_stats.svg"/><br>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gaowentian0101&show_icons=true&theme=dark&count_private=true)
   
