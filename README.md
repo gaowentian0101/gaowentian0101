@@ -2,10 +2,10 @@
 <div align='center'>
 <!-- svg -->
   <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /><br>
   <!-- knock code pictures 敲代码的图片 -->
  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /><br>
   
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
