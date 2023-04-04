@@ -8,7 +8,7 @@
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-
+<br/>
 <!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
@@ -18,7 +18,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-<img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
 ![](https://visitor-badge.glitch.me/badge?page_id=gaowentian0101)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gaowentian0101&show_icons=true&theme=dark&count_private=true)
