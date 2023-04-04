@@ -1,7 +1,12 @@
 ### Hi there 👋
 <div align='center'>
 <!-- svg -->
-
+  <!-- just img 图片 -->
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+  <!-- knock code pictures 敲代码的图片 -->
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
@@ -39,46 +44,7 @@
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
 
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/achievements.compact.svg" alt="achievements.compact" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/discussions.svg" alt="discussions" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/stars.svg" alt="stars" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/gaowentian0101/gaowentian0101/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
-</div>
+
 
